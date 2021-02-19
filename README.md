@@ -40,9 +40,6 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-📫 How to reach me: yaronhuang@foxmail.com
+<h3> 🤝🏻 &nbsp;📫 How to reach me: nisarggandhi21@gmail.com </h3>
 
 ⭐️ From [nisarggandhi21](https://github.com/nisarggandhi21)

@@ -6,6 +6,11 @@
 - 🎓 &nbsp; Studying Computer Science at SK Somaiya.
 - 💼 &nbsp; Working as a Freelancer.
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/nisarggandhi21/count.svg" />
+</p>
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -30,7 +35,7 @@
 
 <a href="https://github.com/nisarggandhi21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nisarggandhi21&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisarggandhi2&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisarggandhi21&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -38,10 +43,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://nisarg-gandhi.tech"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/nisarggandhi21/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/nisarggandhi21/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:nisarggandhi21@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
-</p>
+📫 How to reach me: yaronhuang@foxmail.com
 
 ⭐️ From [nisarggandhi21](https://github.com/nisarggandhi21)

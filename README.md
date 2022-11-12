@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science at SK Somaiya.
+- 🎓 &nbsp; Studying Computer Science at PES University.
 - 💼 &nbsp; Working as a Freelancer.
 
 <p align="center"> 

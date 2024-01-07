@@ -6,11 +6,11 @@
   <img src="https://profile-counter.glitch.me/nisarggandhi21/count.svg" />
 </p>
 
-- 🔭 I’m currently working on [gandhi&#39;s estate](https://github.com/nisarggandhi21/gandhi-s-estate)
+- 🔭 I’m currently working on [gandhi&#39;s estate]([https://github.com/nisarggandhi21/gandhi-s-estate](https://github.com/nisarggandhi21/Taste-of-Home-Public))
 - 🌱 I’m currently learning **MERN Stack**
 - 👨‍💻 All of my projects are available at [https://nisarggandhi.netlify.app/](https://nisarggandhi.netlify.app/)
 - 📫 How to reach me **nisarggandhi21@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/17FVqrIlF1qSWFawJ5uTVjDjBzJYEgjuE/view?usp=sharing](https://drive.google.com/file/d/17FVqrIlF1qSWFawJ5uTVjDjBzJYEgjuE/view?usp=sharing)
+- 📄 Know about my experiences [Resume]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
